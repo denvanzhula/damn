@@ -1,0 +1,13 @@
+.vs
+out
+bin
+lib
+obj
+Debug
+Release
+*.exe
+*.dll
+*.o
+*.obj
+*.so
+*.a
